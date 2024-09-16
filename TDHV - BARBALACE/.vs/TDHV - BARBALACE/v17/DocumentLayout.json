@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\Unity\\TDHV - BARBALACE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|d:\\unity\\tdhv - barbalace\\assets\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|d:\\unity\\tdhv - barbalace\\assets\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\TDHV - BARBALACE\\Library\\PackageCache\\com.unity.probuilder@5.2.3\\Content\\Shader\\StandardVertexColor.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.probuilder@5.2.3\\Content\\Shader\\StandardVertexColor.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|d:\\unity\\tdhv - barbalace\\assets\\mini first person controller\\scripts\\components\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\mini first person controller\\scripts\\components\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\mini first person controller\\scripts\\components\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "scoreText.cs",
+              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\scoreText.cs",
+              "RelativeDocumentMoniker": "Assets\\scoreText.cs",
+              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\scoreText.cs",
+              "RelativeToolTip": "Assets\\scoreText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:05:35.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "collectable.cs",
+              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\collectable.cs",
+              "RelativeDocumentMoniker": "Assets\\collectable.cs",
+              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\collectable.cs",
+              "RelativeToolTip": "Assets\\collectable.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:55:13.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StandardVertexColor.shader",
               "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Library\\PackageCache\\com.unity.probuilder@5.2.3\\Content\\Shader\\StandardVertexColor.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.probuilder@5.2.3\\Content\\Shader\\StandardVertexColor.shader",
@@ -30,12 +64,11 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.probuilder@5.2.3\\Content\\Shader\\StandardVertexColor.shader",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2024-09-07T19:28:42.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T19:28:42.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Jump.cs",
               "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Mini First Person Controller\\Scripts\\Components\\Jump.cs",
               "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\Components\\Jump.cs",
@@ -43,8 +76,7 @@
               "RelativeToolTip": "Assets\\Mini First Person Controller\\Scripts\\Components\\Jump.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T20:31:16.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T20:31:16.114Z"
             }
           ]
         }
