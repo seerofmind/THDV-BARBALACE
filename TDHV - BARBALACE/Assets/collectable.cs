@@ -7,12 +7,19 @@ public class collectable : MonoBehaviour
     private Renderer objectRenderer;
     private Collider objectCollider;
     public int score;
-
+    [SerializeField] private List<GameObject> collectedItems;
+    private List<GameObject> gears = new List<GameObject>();
+  
     void Start()
     {
         objectRenderer = GetComponent<Renderer>();
         objectCollider = GetComponent<Collider>();
 
+    }
+    void CollectItem(GameObject item)
+    {
+        collectedItems.Add(item); // Add the item to the list
+        Debug.Log("Collected: " + item.name);
     }
     void SetInvisibleAndDisableCollision()
     {
@@ -30,13 +37,13 @@ public class collectable : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
+           
             SetInvisibleAndDisableCollision();
             score = score + 10;
             Debug.Log(score);
         }
+
     }
-
-
-
-
 }
+
+
