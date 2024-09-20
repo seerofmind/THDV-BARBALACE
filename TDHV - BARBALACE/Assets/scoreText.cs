@@ -14,7 +14,7 @@ public class scoreText : MonoBehaviour
         {
             Debug.Log("Value from OtherScript: " + collectable.score);
         }
-        tmpText = GetComponent<TMP_Text>();
+        //tmpText = GetComponent<TMP_Text>();
         if (tmpText != null)
         {
             tmpText.enabled = true; // Make the object invisible
