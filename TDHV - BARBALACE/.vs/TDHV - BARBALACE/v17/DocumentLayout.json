@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "D:\\Unity\\TDHV - BARBALACE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\TDHV - BARBALACE\\assets\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\scripts\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\scripts\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\scripts\\hidingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hidingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\hidingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\hidingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\wallbreaks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\wallbreaks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\TDHV - BARBALACE\\Assets\\Hide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Hide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|d:\\unity\\tdhv - barbalace\\assets\\scripts\\triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\mini first person controller\\scripts\\components\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\mini first person controller\\scripts\\components\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\TDHV - BARBALACE\\Library\\PackageCache\\com.unity.probuilder@5.2.3\\Content\\Shader\\StandardVertexColor.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.probuilder@5.2.3\\Content\\Shader\\StandardVertexColor.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,96 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "wallBreaks.cs",
-              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\wallBreaks.cs",
-              "RelativeDocumentMoniker": "Assets\\wallBreaks.cs",
-              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\wallBreaks.cs",
-              "RelativeToolTip": "Assets\\wallBreaks.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T23:56:06.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "triggerScript.cs",
-              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\triggerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\triggerScript.cs",
-              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\triggerScript.cs",
-              "RelativeToolTip": "Assets\\triggerScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T16:54:49.465Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "hidingPlace.cs",
-              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\hidingPlace.cs",
-              "RelativeDocumentMoniker": "Assets\\hidingPlace.cs",
-              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\hidingPlace.cs",
-              "RelativeToolTip": "Assets\\hidingPlace.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEcAAAABAAAA",
+              "Title": "triggerScript.cs",
+              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\triggerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\triggerScript.cs",
+              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\triggerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\triggerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T20:22:57.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Hide.cs",
-              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Hide.cs",
-              "RelativeDocumentMoniker": "Assets\\Hide.cs",
-              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Hide.cs",
-              "RelativeToolTip": "Assets\\Hide.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAUAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T17:56:29.411Z"
+              "WhenOpened": "2024-09-23T22:06:03.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "scoreText.cs",
-              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\scoreText.cs",
-              "RelativeDocumentMoniker": "Assets\\scoreText.cs",
-              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\scoreText.cs",
-              "RelativeToolTip": "Assets\\scoreText.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
+              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\scoreText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\scoreText.cs",
+              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\scoreText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\scoreText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T20:05:35.188Z"
+              "WhenOpened": "2024-09-23T22:06:00.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hidingPlace.cs",
+              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\hidingPlace.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\hidingPlace.cs",
+              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\hidingPlace.cs",
+              "RelativeToolTip": "Assets\\Scripts\\hidingPlace.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:05:38.427Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "collectable.cs",
-              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\collectable.cs",
-              "RelativeDocumentMoniker": "Assets\\collectable.cs",
-              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\collectable.cs",
-              "RelativeToolTip": "Assets\\collectable.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwCkAAAAdAAAA",
+              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\collectable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\collectable.cs",
+              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\collectable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\collectable.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwDAAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:55:13.2Z",
+              "WhenOpened": "2024-09-23T22:00:58.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StandardVertexColor.shader",
-              "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Library\\PackageCache\\com.unity.probuilder@5.2.3\\Content\\Shader\\StandardVertexColor.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.probuilder@5.2.3\\Content\\Shader\\StandardVertexColor.shader",
-              "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Library\\PackageCache\\com.unity.probuilder@5.2.3\\Content\\Shader\\StandardVertexColor.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.probuilder@5.2.3\\Content\\Shader\\StandardVertexColor.shader",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2024-09-07T19:28:42.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Jump.cs",
               "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Mini First Person Controller\\Scripts\\Components\\Jump.cs",
               "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\Components\\Jump.cs",
