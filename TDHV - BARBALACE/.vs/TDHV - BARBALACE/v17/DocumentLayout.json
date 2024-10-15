@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Unity\\TDHV - BARBALACE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\scripts\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\scripts\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\scripts\\triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\scripts\\hidingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hidingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|d:\\unity\\tdhv - barbalace\\assets\\scripts\\triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|d:\\unity\\tdhv - barbalace\\assets\\scripts\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35229D00-27A6-442A-401B-464CF1896041}|Assembly-CSharp.csproj|D:\\Unity\\TDHV - BARBALACE\\assets\\mini first person controller\\scripts\\components\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "triggerScript.cs",
               "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\triggerScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\triggerScript.cs",
@@ -47,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "scoreText.cs",
               "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\scoreText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\scoreText.cs",
               "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\scoreText.cs",
               "RelativeToolTip": "Assets\\Scripts\\scoreText.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T22:06:00.938Z",
               "EditorCaption": ""
@@ -66,20 +66,20 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\hidingPlace.cs",
               "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\hidingPlace.cs",
               "RelativeToolTip": "Assets\\Scripts\\hidingPlace.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T22:05:38.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "collectable.cs",
               "DocumentMoniker": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\collectable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\collectable.cs",
               "ToolTip": "D:\\Unity\\TDHV - BARBALACE\\Assets\\Scripts\\collectable.cs",
               "RelativeToolTip": "Assets\\Scripts\\collectable.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAcwDAAAABFAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T22:00:58.587Z",
               "EditorCaption": ""
