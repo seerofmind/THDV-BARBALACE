@@ -14,6 +14,5 @@ public class RestartGame : MonoBehaviour
             // Restart the game by reloading the current scene
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
-
     }
 }
