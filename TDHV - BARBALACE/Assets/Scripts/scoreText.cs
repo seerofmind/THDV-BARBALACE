@@ -5,16 +5,13 @@ using UnityEngine;
 
 public class scoreText : MonoBehaviour
 {
-    public collectable collectable;
+    
     public TMP_Text tmpText;
     // Start is called before the first frame update
+public int score;
     void Start()
     {
-        if (collectable != null)
-        {
-            Debug.Log("Value from OtherScript: " + collectable.score);
-            
-        }
+       
         //tmpText = GetComponent<TMP_Text>();
         if (tmpText != null)
         {
@@ -25,6 +22,6 @@ public class scoreText : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //tmpText.text = "Keys: " + collectable.score + "/1";
+        tmpText.text = "Keys: " + score + "/1";
     }
 }

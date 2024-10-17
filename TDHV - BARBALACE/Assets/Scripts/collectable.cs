@@ -37,9 +37,9 @@ public class collectable : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-
+            other.GetComponent<scoreText>().score += score;
             SetInvisibleAndDisableCollision();
-            score = score + 10;
+            
             Debug.Log(score);
         }
 
