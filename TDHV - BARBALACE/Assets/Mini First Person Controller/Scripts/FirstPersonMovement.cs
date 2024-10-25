@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class FirstPersonMovement : MonoBehaviour
 {
@@ -40,5 +41,17 @@ public class FirstPersonMovement : MonoBehaviour
 
         // Apply movement.
         rigidbody.velocity = transform.rotation * new Vector3(targetVelocity.x, rigidbody.velocity.y, targetVelocity.y);
+    }
+    private void PlayerDeath()
+    {
+        SceneManager.LoadScene("SampleScene");
+    }
+    private void OnCollisionEnter(Collision collision)
+    {
+        Debug.Log("Hubo contacto");
+        if (collision.gameObject.layer == 7)
+        {
+            PlayerDeath();
+        }
     }
 }
