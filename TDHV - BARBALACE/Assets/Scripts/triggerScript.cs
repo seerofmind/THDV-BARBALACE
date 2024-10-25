@@ -1,19 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement; // Import scene management
+using UnityEngine.SceneManagement;
 
-public class RestartGame : MonoBehaviour
+public class SceneReloader : MonoBehaviour
 {
-    // This method will be called when the player enters the trigger collider
-    private void OnTriggerEnter(Collider other)
+    public void ReloadScene()
     {
-        // Check if the object that triggered the collision is the player
-        if (other.CompareTag("Player"))
-        {
-            // Restart the game by reloading the current scene
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-        }
-
+        SceneManager.LoadScene("SampleScene");
     }
 }
