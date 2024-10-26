@@ -10,8 +10,10 @@ public class hidingPlace : MonoBehaviour
 {
     public GameObject hideText, stopHideText;
     public GameObject normalPlayer, hidingPlayer;
-   // public enemyAI monsterScript;
-   // public Transform monsterTransform;
+    public GameObject playerCamera;
+    public GameObject hidingCamera;
+    // public enemyAI monsterScript;
+    // public Transform monsterTransform;
     bool interactable, hiding;
     public float loseDistance;
 
@@ -19,6 +21,8 @@ public class hidingPlace : MonoBehaviour
     {
         interactable = false;
         hiding = false;
+        playerCamera.SetActive(true);
+        hidingCamera.SetActive(false);
     }
     void OnTriggerStay(Collider other)
     {
@@ -26,6 +30,7 @@ public class hidingPlace : MonoBehaviour
         {
             hideText.SetActive(true);
             interactable = true;
+            
         }
     }
     void OnTriggerExit(Collider other)
@@ -56,6 +61,8 @@ public class hidingPlace : MonoBehaviour
                 hiding = true;
                 normalPlayer.SetActive(false);
                 interactable = false;
+                playerCamera.SetActive(false);
+                hidingCamera.SetActive(true);
             }
         }
         if (hiding == true)
@@ -66,6 +73,8 @@ public class hidingPlace : MonoBehaviour
                 normalPlayer.SetActive(true);
                 hidingPlayer.SetActive(false);
                 hiding = false;
+                playerCamera.SetActive(true);
+                hidingCamera.SetActive(false);
             }
         }
     }
