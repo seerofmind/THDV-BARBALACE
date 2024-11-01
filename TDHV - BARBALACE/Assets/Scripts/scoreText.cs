@@ -1,27 +1,71 @@
 using System.Collections;
 using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
+using TMPro;
+using UnityEngine.SceneManagement; // Importa el espacio de nombres para la gestión de escenas
 
-public class scoreText : MonoBehaviour
+public class WinText : MonoBehaviour
 {
-    
-    public TMP_Text tmpText;
-    // Start is called before the first frame update
-public int score;
+    public Collectable[] collectables; // Cambiado a plural
+    public TextMeshProUGUI tmpText;
+    public int score;
+    public GameObject winCube; // Referencia al cubo donde se gana
+    public float interactionDistance = 3f; // Distancia para interactuar
+    private bool canWin = false; // Si se puede ganar
+
     void Start()
     {
-       
-        //tmpText = GetComponent<TMP_Text>();
-        if (tmpText != null)
+        if (tmpText == null)
         {
-            tmpText.enabled = true; // Make the object invisible
+            tmpText = GetComponent<TextMeshProUGUI>();
         }
     }
 
-    // Update is called once per frame
     void Update()
     {
-        tmpText.text = "Keys: " + score + "/1";
+        // Actualiza el texto de puntuación
+        if (tmpText != null && collectables != null)
+        {
+            tmpText.text = "Keys: " + score + "/" + collectables.Length;
+        }
+
+        // Verifica si el jugador está cerca del cubo, ha recolectado suficientes objetos y ha presionado "E"
+        if (canWin && score >= 1 && Input.GetKeyDown(KeyCode.E))
+        {
+            RestartScene(); // Llama al método para reiniciar la escena
+        }
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        // Verifica si el objeto es el cubo específico
+        if (other.gameObject == winCube)
+        {
+            canWin = true; // Permitir ganar
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        // Si el jugador se aleja del cubo, desactivar la posibilidad de ganar
+        if (other.gameObject == winCube)
+        {
+            canWin = false;
+        }
+    }
+
+    public void CollectItem()
+    {
+        score++;
+        // Aquí podrías desactivar o destruir el coleccionable
+        if (score >= 1)
+        {
+            // Lógica adicional si necesitas cuando se recolectan 1 o más objetos
+        }
+    }
+
+    private void RestartScene()
+    {
+        SceneManager.LoadScene("SampleScene"); // Reinicia la escena llamada "SampleScene"
     }
 }
