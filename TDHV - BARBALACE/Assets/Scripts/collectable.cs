@@ -7,6 +7,7 @@ public class collectable : MonoBehaviour
     private Renderer objectRenderer;
     private Collider objectCollider;
     public int score;
+    [SerializeField] private GameObject TextKey;
     [SerializeField] private List<GameObject> collectedItems;
     private List<GameObject> gears = new List<GameObject>();
 
@@ -42,7 +43,10 @@ public class collectable : MonoBehaviour
             
             Debug.Log(score);
         }
-
+        if (TextKey != null)
+        {
+            TextKey.SetActive(false);
+        }
     }
 }
 

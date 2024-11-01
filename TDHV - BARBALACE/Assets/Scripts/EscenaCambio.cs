@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class EscenaCambio : MonoBehaviour
+public class menuscript : MonoBehaviour
 {
-    public void ChangeScene(string SampleScene)
+    public void PlayGame()
     {
-        Debug.Log("Intentando cambiar a la escena: " + SampleScene);
-        SceneManager.LoadScene(SampleScene);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);// this can load the scene number 1 (game)//SceneManager.GetActiveScene().buildIndex +1
+
     }
 }
 
