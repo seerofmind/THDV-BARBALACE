@@ -22,6 +22,7 @@ public class hidingPlace : MonoBehaviour
         interactable = false;
         hiding = false;
         playerCamera.SetActive(true);
+        Debug.Log(playerCamera == null);
         hidingCamera.SetActive(false);
     }
     void OnTriggerStay(Collider other)
