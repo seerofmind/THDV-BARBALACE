@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9870eb35ada83ae47b183c2bc7bee501, type: 3}
   m_Name: EnemyData
   m_EditorClassIdentifier: 
-  walkSpeed: 5
+  walkSpeed: 30
   chaseSpeed: 10
   minIdleTime: 1
   maxIdleTime: 1
@@ -23,5 +23,5 @@ MonoBehaviour:
   minChaseTime: 5
   maxChaseTime: 5
   walking: 0
-  chasing: 1
-  aiDistance: 22.182547
+  chasing: 0
+  aiDistance: 51.724728

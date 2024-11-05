@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: PlayerData
   m_EditorClassIdentifier: 
   canRun: 1
-  runSpeed: 20
+  runSpeed: 10
   speed: 5
   runningKey: 304
